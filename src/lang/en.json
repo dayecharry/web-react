@@ -1,0 +1,5 @@
+{
+    "app.header":" Hello wordl",
+    "app.content": "Learn react INTL",
+    "app.user": "Welcome {user}"
+}
